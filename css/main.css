@@ -1,0 +1,29 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  background-color: black;
+}
+
+h1 { color: white; }
+h2 { color: white; }
+p { color: white; }
+
+.color1{
+  background-color: #ff00ff;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #ff00ff;
+  font-weight: bold;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: url(../img/image4.jpg);
+}
